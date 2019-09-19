@@ -1,0 +1,10 @@
+NOMBRE	EDAD	DIRECCION	TELEFONO	PAIS
+JOSE	22	Palenque e/ arrecife al sur #429	6121589556	Mexico
+EDUARDO	24	Palenque e/ arrecife al sur #44	6121423426	Uruguay
+ROLLAND	23	Palenque e/ sardinar oriente #4429	6121324215	Chile
+GERALDO	31	Palenque e/ moleculas #449	61214234326	USA
+JESUS	57	Palenque e/ arrecife al sur #4259	61213423456	Argentina
+ISMAEL	69	Colibris e/ salida #4299	6123349556	Japon
+OSCAR	12	Mercantil al norte #44	6121589536	España
+GUILLERMO	49	volador de afuera #42339	61215833556	Alemania
+GILBERTO	25	balde de carnadas #449	6121539556	Italia
